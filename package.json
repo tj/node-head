@@ -1,0 +1,13 @@
+{
+  "name": "head",
+  "version": "0.0.1",
+  "description": "sync file head",
+  "keywords": [],
+  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
