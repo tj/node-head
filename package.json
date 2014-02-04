@@ -9,5 +9,9 @@
     "mocha": "*",
     "should": "*"
   },
-  "main": "index"
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visionmedia/node-head.git"
+  }
 }
